@@ -61,6 +61,7 @@ namespace BIT_ADO
             builder.MaxPoolSize = 10;
             ConnectionString = builder.ToString();
             ListClients();
+
             Console.ReadLine();
 
         }
