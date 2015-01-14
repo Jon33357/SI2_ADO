@@ -1,0 +1,6 @@
+E:\ISEL\SI2\BIT\ADO\Bit_ADO_Connected\BIT_ADO\bin\Debug\BIT_ADO.exe.config
+E:\ISEL\SI2\BIT\ADO\Bit_ADO_Connected\BIT_ADO\bin\Debug\BIT_ADO.exe
+E:\ISEL\SI2\BIT\ADO\Bit_ADO_Connected\BIT_ADO\bin\Debug\BIT_ADO.pdb
+E:\ISEL\SI2\BIT\ADO\Bit_ADO_Connected\BIT_ADO\obj\Debug\BIT_ADO.csprojResolveAssemblyReference.cache
+E:\ISEL\SI2\BIT\ADO\Bit_ADO_Connected\BIT_ADO\obj\Debug\BIT_ADO.exe
+E:\ISEL\SI2\BIT\ADO\Bit_ADO_Connected\BIT_ADO\obj\Debug\BIT_ADO.pdb
